@@ -1,6 +1,6 @@
 # ecommerce-video-marketing
 
-> E-commerce operations与Content creators必备！当您需要为多品类商品策划抖音、小红书等平台的带货视频时，一键生成包含痛点切入、产品展示与专业镜头设计的6阶段高质量视频脚本，轻松打造高转化营销内容，大幅提升品牌销量。
+> E-commerce operationsContent creators6
 
 ## Overview
 Part of the Gopyr Skills Hub under `Media, Video & Audio`. Designed for autonomous execution and prompt engineering workflows.

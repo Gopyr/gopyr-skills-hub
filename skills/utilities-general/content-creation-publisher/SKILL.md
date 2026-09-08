@@ -1,6 +1,6 @@
 # content-creation-publisher
 
-> Content creators与Independent media creators在需要将网页素材转化为多平台图文时，使用本技能可自动完成网页提取、Markdown排版美化、智能配图，并一键发布至微信公众号与X/Twitter，轻松实现从采集到发布的一站式自动化工作流。
+> Content creatorsIndependent media creatorsMarkdownX/Twitter
 
 ## Overview
 Part of the Gopyr Skills Hub under `General & Utilities`. Designed for autonomous execution and prompt engineering workflows.

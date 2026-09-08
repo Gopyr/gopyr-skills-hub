@@ -1,6 +1,6 @@
 # poetry-music-visual
 
-> Content creators与Video and film editors在制作古诗词MV或文化可视化内容时，使用本技能深度解析诗词意境，一键生成AI绘画配图场景描述与Suno专属纯音乐配乐蓝图，轻松完成视听双重艺术转化，让古典诗词焕发新生。
+> Content creatorsVideo and film editorsMVAISuno
 
 ## Overview
 Part of the Gopyr Skills Hub under `Media, Video & Audio`. Designed for autonomous execution and prompt engineering workflows.
