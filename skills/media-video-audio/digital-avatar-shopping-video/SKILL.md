@@ -1,6 +1,6 @@
 # digital-avatar-shopping-video
 
-> 电商运营与自媒体创作者在需要制作商品推荐或促销带货短视频时，使用此技能可一键生成“小省导购员”数字人口播视频。系统自动协同五大智能体完成脚本、画面与音画合成，产出适配抖音、快手等平台的成品，高效搞定带货视频制作。
+> E-commerce operations与Independent media creators在需要制作商品推荐或促销带货短视频时，使用此技能可一键生成“小省导购员”数字人口播视频。系统自动协同五大智能体完成脚本、画面与音画合成，产出适配抖音、快手等平台的成品，高效搞定带货视频制作。
 
 ## Overview
 Part of the Gopyr Skills Hub under `Media, Video & Audio`. Designed for autonomous execution and prompt engineering workflows.
