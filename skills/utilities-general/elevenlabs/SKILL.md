@@ -1,0 +1,6 @@
+# elevenlabs
+
+> Generate AI voiceovers, sound effects, and music using ElevenLabs APIs. Use when creating audio content for videos, podcasts, or games. Triggers include generating voiceovers, narration, dialogue, sound effects from descriptions, background music, soundtrack generation, voice cloning, or any audio synthesis task.
+
+## Overview
+Part of the Gopyr Skills Hub under `General & Utilities`. Designed for autonomous execution and prompt engineering workflows.

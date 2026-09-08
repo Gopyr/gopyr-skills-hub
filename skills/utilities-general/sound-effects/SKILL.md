@@ -1,0 +1,6 @@
+# sound-effects
+
+> Generate sound effects from text descriptions using ElevenLabs. Use when creating sound effects, generating audio textures, producing ambient sounds, cinematic impacts, UI sounds, or any audio that isn't speech. Supports looping, duration control, and prompt influence tuning.
+
+## Overview
+Part of the Gopyr Skills Hub under `General & Utilities`. Designed for autonomous execution and prompt engineering workflows.

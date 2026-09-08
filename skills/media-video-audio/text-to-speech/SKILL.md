@@ -1,0 +1,7 @@
+# text-to-speech
+
+> Generate speech audio from text using HeyGen's Starfish TTS model. Use when: (1) Generating standalone speech audio files from text, (2) Converting text to speech with voice selection, speed, and pitch control, (3) Creating audio for voiceovers, narration, or podcasts, (4) Working with HeyGen's /v1/audio endpoints, (5) Listing available TTS voices by language or gender.
+
+
+## Overview
+Part of the Gopyr Skills Hub under `Media, Video & Audio`. Designed for autonomous execution and prompt engineering workflows.

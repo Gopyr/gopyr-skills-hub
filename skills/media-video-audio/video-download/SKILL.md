@@ -1,0 +1,8 @@
+# video-download
+
+> Download video and audio from YouTube and 1000+ sites using yt-dlp. No API keys needed.
+Use when: (1) Downloading a video from YouTube or other sites, (2) Extracting audio from a video URL,
+(3) Downloading subtitles/captions from a video, (4) Getting video metadata without downloading.
+
+## Overview
+Part of the Gopyr Skills Hub under `Media, Video & Audio`. Designed for autonomous execution and prompt engineering workflows.

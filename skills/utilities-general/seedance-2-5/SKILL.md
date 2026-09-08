@@ -1,0 +1,6 @@
+# seedance-2-5
+
+> Generate 4-30 second cinematic video with ByteDance Seedance 2.5 through fal.ai, Volcengine Ark, Runway, or ComfyUI Partner Nodes. Use for long single generations, synchronized audio, and large multimodal reference sets (up to 30 images, 10 videos, and 10 audio clips). Also covers the 2.5 prompt contract: section order, multi-shot "Hard cut" breakdown, named locks for continuity across cuts, the asset and character-sheet method, voice conditioning, and iteration discipline.
+
+## Overview
+Part of the Gopyr Skills Hub under `General & Utilities`. Designed for autonomous execution and prompt engineering workflows.

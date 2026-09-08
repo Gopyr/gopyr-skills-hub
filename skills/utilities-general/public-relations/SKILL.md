@@ -1,0 +1,6 @@
+# public-relations
+
+> When the user wants help with public relations, earned media, press coverage, journalist outreach, or media strategy (not pull requests). Also use when the user mentions 'PR,' 'public relations,' 'press,' 'press release,' 'press coverage,' 'media outreach,' 'pitch a journalist,' 'get featured,' 'media list,' 'media kit,' 'press kit,' 'newsjacking,' 'news hijack,' 'HARO,' 'Qwoted,' 'Featured,' 'Help A Reporter,' 'reporter request,' 'tech press,' 'TechCrunch,' 'earned media,' 'thought leadership placement,' 'op-ed,' 'guest article,' 'press contacts,' 'podcast prep,' 'going on a podcast,' 'podcast guest,' 'prep me for this podcast,' or 'how do I get press.' Use this for earned media work — finding journalists, pitching stories, newsjacking, prepping podcast appearances, and responding to press requests. For startup/SaaS/AI directory submissions, see directory-submissions. For product launches, see launch. For social-media engagement, see social. For cold-email outreach to prospects, see cold-email.
+
+## Overview
+Part of the Gopyr Skills Hub under `General & Utilities`. Designed for autonomous execution and prompt engineering workflows.
